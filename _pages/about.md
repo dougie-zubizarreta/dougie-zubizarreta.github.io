@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About me!"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me!
 
 I am a PhD candidate in Social Epidemiology at the Harvard T.H. Chan School of Public Health. 
 
