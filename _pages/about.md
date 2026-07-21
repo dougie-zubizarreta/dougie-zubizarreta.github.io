@@ -1,7 +1,7 @@
 ---
 layout: single
 title: " "
-permalink: /Dougie Zubizarreta/
+permalink: /dougie-zubizarreta/
 author_profile: true
 ---
 
