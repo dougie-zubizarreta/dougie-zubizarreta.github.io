@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "Recent publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 For a full list of my publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=OKM5TK4AAAAJ&hl=en&oi=ao) page.
+
+My research largely falls within the following two topic areas:
 
 ## Applying quantitative methods for intersectionality research
 
@@ -14,8 +16,6 @@ For a full list of my publications, please refer to my [Google Scholar](https://
 2. Beccia AL, Hazzard VM, Rodgers RF, Zubizarreta D, Schaefer LM, Burke NL. Campus climate and intersectional inequities in eating disorders among U.S. college students: A multilevel analysis of individual heterogeneity and discriminatory accuracy (2025). Annals of Epidemiology. doi: 10.1016/j.annepidem.2025.09.014
 
 3. Zubizarreta D, Beccia AL, Trinh MH, Reynolds CA, Reisner SL*, Charlton BM*. Human papillomavirus vaccination disparities among US college students: An intersectional multilevel analysis of individual heterogeneity and discriminatory accuracy (2022). Social Science and Medicine. doi:10.1016/j.socscimed.2022.114871. * indicates co-senior authorship
-
-Currently, I am working on three I-MAIHDA-related projects.
 
 ## Developing and analyzing measures of structural forms of discrimination
 
