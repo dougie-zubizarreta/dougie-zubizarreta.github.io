@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming workshops 
 
-### [Identifying and Developing Measures for Structural Quantitative Intersectionality Research: A Deeper Dive](https://www.intersectionalitytraining.com/training/sqir-deeper-dive/)
+## [Identifying and Developing Measures for Structural Quantitative Intersectionality Research: A Deeper Dive](https://www.intersectionalitytraining.com/training/sqir-deeper-dive/)
 #### September 14-18, 2026
 
 **Workshop series description:** Tired of using social identity variables as proxies for exposure to structural discrimination? 
@@ -19,7 +19,7 @@ such as latent class analysis and exploratory factor analysis. By the end of the
 to critically evaluate (and identify important gaps in!) existing measures as well as develop and evaluate novel measures of structural 
 discrimination for use in quantitative intersectionality research.
 
-### [Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA): Introduction and Deep Dive](https://www.intersectionalitytraining.com/training/maihda/)
+## [Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA): Introduction and Deep Dive](https://www.intersectionalitytraining.com/training/maihda/)
 #### October 5-9, 2026
 
 **Workshop series description:** MAIHDA is everywhere these days! But what is it? What does it have to do with intersectionality? 
@@ -33,7 +33,7 @@ basic analytic code, and showcase emerging extensions, such as models that incor
 By the end of the series, participants will have a clear conceptual understanding of MAIHDA, hands-on familiarity with its implementation, 
 and a concrete toolkit for planning, executing, and critically evaluating MAIHDA-based projects.
 
-### [The Descriptive to Causal Continuum of Quantitative Intersectionality Health Equity Research](https://www.intersectionalitytraining.com/training/descriptive-to-causal-continuum/) 
+## [The Descriptive to Causal Continuum of Quantitative Intersectionality Health Equity Research](https://www.intersectionalitytraining.com/training/descriptive-to-causal-continuum/) 
 #### October 16, 2026
 
 **Workshop description:** How can quantitative intersectionality research move beyond description and toward stronger causal claims, especially as 
@@ -45,7 +45,7 @@ for aligning their research questions, data, and analytic strategies to support 
 
 ## Past workshops
 
-### [Harness the Power of Structural Quantitative Intersectionality Research](https://www.intersectionalitytraining.com/training/harness-the-power/) 
+## [Harness the Power of Structural Quantitative Intersectionality Research](https://www.intersectionalitytraining.com/training/harness-the-power/) 
 #### March 6-20, 2026
 
 **Workshop series description:** Structural intersectionality, one of three domains of intersectionality that Kimberlé Crenshaw articulated in her 
