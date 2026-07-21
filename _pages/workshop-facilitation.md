@@ -1,7 +1,7 @@
 ---
 layout: single
 title: " "
-permalink: /workshop facilitation/
+permalink: /workshop-facilitation/
 author_profile: true
 ---
 
