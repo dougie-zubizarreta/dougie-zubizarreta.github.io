@@ -1,7 +1,7 @@
 ---
 layout: single
 title: " "
-permalink: /guest lectures/
+permalink: /guest-lectures/
 author_profile: true
 ---
 
