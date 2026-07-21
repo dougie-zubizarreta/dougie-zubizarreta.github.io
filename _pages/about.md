@@ -1,11 +1,9 @@
 ---
 layout: single
-title: " "
+title: "About me!"
 permalink: /dougie-zubizarreta/
 author_profile: true
 ---
-
-## About me!
 
 I am a PhD candidate in Social Epidemiology at the Harvard T.H. Chan School of Public Health. 
 
