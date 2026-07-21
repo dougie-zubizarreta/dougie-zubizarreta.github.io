@@ -5,7 +5,7 @@ title: "About me:"
 author_profile: true
 ---
 
-I am a PhD candidate in Social Epidemiology at the Harvard T.H. Chan School of Public Health. I am also part of the [Robert Wood Johnson Foundation's Health Policy Research Scholars Program](https://healthpolicyresearch-scholars.org/scholars/dougie-zubizarreta/)
+I am a PhD candidate in Social Epidemiology at the Harvard T.H. Chan School of Public Health. I am also part of the [Robert Wood Johnson Foundation's Health Policy Research Scholars Program](https://healthpolicyresearch-scholars.org/scholars/dougie-zubizarreta/).
 
 **I plan to graduate in Spring 2027 and am currently on the 2026-2027 academic job market.**
 
