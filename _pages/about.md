@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About me!"
-permalink: /dougie-zubizarreta/
+permalink: /
 author_profile: true
 ---
 
