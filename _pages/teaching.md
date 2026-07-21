@@ -15,8 +15,7 @@ Position description:
 *	Developed a course module (lecture content, homework questions, reading list) on Measuring Structural Cisgenderism
 
 # Teaching Fellow for SBS 507: Advanced Theories of Disease Distribution & Health Inequities (Prof. Nancy Krieger)
-### *Fall 2023, 2024 & 2025* 
-### *Head Teaching Fellow: Fall 2024 & 2025*
+### *Fall 2023, 2024 & 2025, Head Teaching Fellow: Fall 2024 & 2025*
 ### Department of Social & Behavioral Sciences, Harvard School of Public Health
 
 Course description: This course builds on the prerequisite course SBS 506 and its critical focus on theories of disease distribution, past and present. Intended for doctoral students (and required of SBS doctoral students), SBS 507 deepens historical and present-day understanding of contemporary mainstream theories of disease distribution and their social epidemiologic alternatives. Pairing 20th and 21st CE historical and contemporary books (not articles!), the course both builds substantive knowledge regarding the content and public health implications of diverse theories of disease distributions while also developing skills in conducting literature searches about and engaging with complex scholarly arguments and discourse.
