@@ -1,7 +1,7 @@
 ---
 layout: single
 title: " "
-permalink: /dissertation/
+permalink: /
 author_profile: true
 ---
 
