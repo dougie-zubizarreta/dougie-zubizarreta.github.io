@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: archieve
 title: " "
-permalink: /
+permalink: /dissertation/
 author_profile: true
 ---
 
