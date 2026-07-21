@@ -23,7 +23,7 @@ repository               : "dougie-zubizarreta/dougie-zubizarreta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DZ Headshot.JPG"
+  avatar           : "profile.jpg"
   name             : "Dougie Zubizarreta"
   pronouns         : "he/they"  
   bio              : "Social epidemiologist"
